@@ -135,7 +135,7 @@
 
             <!-- Footer -->
             <footer class="py-5 px-4 bg-white text-center text-xs text-gray-500 border-t">
-                <p>Copyright &copy; {{ date('Y') }} Arya Bintang Cahyono.</p>
+                <p>Copyright &copy; {{ date('Y') }} AkmlFhim.</p>
             </footer>
         </div>
     </div>
